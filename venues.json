@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-16",
+  "origin": {
+    "name": "בן יהודה 178, תל אביב",
+    "lat": 32.08776,
+    "lon": 34.773482
+  },
+  "osrm": {
+    "foot": "https://routing.openstreetmap.de/routed-foot/",
+    "bike": "https://routing.openstreetmap.de/routed-bike/",
+    "fetched": "2026-11-15"
+  },
+  "venues": [
+    {
+      "events": "1",
+      "name": "היכל התרבות",
+      "address": "הוברמן 1",
+      "lat": 32.0734714,
+      "lon": 34.7800344,
+      "walk": {
+        "meters": 2080,
+        "minutes": 28
+      },
+      "bike": {
+        "meters": 2094,
+        "minutes": 7
+      }
+    },
+    {
+      "events": "2",
+      "name": "רידינג 3",
+      "address": "התערוכה 3, נמל תל אביב",
+      "lat": 32.0978246,
+      "lon": 34.7748707,
+      "walk": {
+        "meters": 1341,
+        "minutes": 18
+      },
+      "bike": {
+        "meters": 1377,
+        "minutes": 7
+      }
+    },
+    {
+      "events": "3",
+      "name": "בית תמי",
+      "address": "מרכז בעלי מלאכה 16",
+      "lat": 32.0698451,
+      "lon": 34.7727877,
+      "walk": {
+        "meters": 2442,
+        "minutes": 33
+      },
+      "bike": {
+        "meters": 3160,
+        "minutes": 12
+      }
+    },
+    {
+      "events": "4",
+      "name": "מוזיאון תל אביב לאמנות",
+      "address": "שאול המלך 27",
+      "lat": 32.0775956,
+      "lon": 34.7866422,
+      "walk": {
+        "meters": 2373,
+        "minutes": 31
+      },
+      "bike": {
+        "meters": 2344,
+        "minutes": 11
+      }
+    },
+    {
+      "events": "5",
+      "name": "שבלול ג׳אז",
+      "address": "קרליבך 23",
+      "lat": 32.0681663,
+      "lon": 34.7830027,
+      "walk": {
+        "meters": 2830,
+        "minutes": 38
+      },
+      "bike": {
+        "meters": 2860,
+        "minutes": 9
+      }
+    },
+    {
+      "events": "6·7",
+      "name": "AMAMA Jazz Room",
+      "address": "חצרים 15, פלורנטין",
+      "lat": 32.056332,
+      "lon": 34.766701,
+      "walk": {
+        "meters": 4054,
+        "minutes": 54
+      },
+      "bike": {
+        "meters": 4813,
+        "minutes": 17
+      }
+    },
+    {
+      "events": "8·9",
+      "name": "לבונטין 7",
+      "address": "לבונטין 7",
+      "lat": 32.0617378,
+      "lon": 34.774758,
+      "walk": {
+        "meters": 3306,
+        "minutes": 45
+      },
+      "bike": {
+        "meters": 3748,
+        "minutes": 13
+      }
+    },
+    {
+      "events": "10",
+      "name": "אוזן בר",
+      "address": "המלך ג׳ורג׳ 48",
+      "lat": 32.074331,
+      "lon": 34.775804,
+      "walk": {
+        "meters": 1697,
+        "minutes": 23
+      },
+      "bike": {
+        "meters": 1717,
+        "minutes": 9
+      }
+    },
+    {
+      "events": "11",
+      "name": "ההולי בר",
+      "address": "הר סיני 1",
+      "lat": 32.0646318,
+      "lon": 34.7716838,
+      "walk": {
+        "meters": 2854,
+        "minutes": 38
+      },
+      "bike": {
+        "meters": 3621,
+        "minutes": 14
+      }
+    }
+  ]
+}
